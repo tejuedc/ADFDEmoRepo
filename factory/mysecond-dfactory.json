@@ -1,0 +1,9 @@
+{
+	"name": "mysecond-dfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e40b2fb-b225-45b7-a6ab-20525d84af67",
+		"tenantId": "0f60636e-8f16-40b4-89d3-e048089b1f7c"
+	}
+}
